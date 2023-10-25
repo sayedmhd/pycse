@@ -1,0 +1,6 @@
+2023-10-22 12:01:23 INFO User 'admin' with email 'admin@company.com' logged in.
+2023-10-22 12:05:45 WARNING Phishing email received from 'attacker@malicious.com'.
+2023-10-22 12:07:30 INFO User 'john_doe' with email 'john.doe@company.com' reported a suspicious email from 'phish@malicious.com'.
+2023-10-22 12:09:15 ERROR Failed sending email to 'support@company.com'.
+2023-10-22 12:10:00 INFO User 'alice' with email 'alice@company.com' logged in.
+2023-10-22 12:12:12 WARNING Phishing email received from 'fake@malicious.com'.
